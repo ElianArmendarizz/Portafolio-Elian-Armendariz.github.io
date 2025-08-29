@@ -5,8 +5,8 @@
 
 ## 📸 Capturas de pantalla
 
-(./screenshots/captura1.png)
-(./src/screen/captura2.png)
+./screenshots/captura1.png
+./src/screen/captura2.png
 
 ---
 

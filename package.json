@@ -1,0 +1,20 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "mi portafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/css/input.css -o ./src/css/output.css --watch"
+  },
+  "author": "elian",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "animate.css": "^4.1.1",
+    "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "tailwindcss-animated": "^2.0.0"
+  }
+}

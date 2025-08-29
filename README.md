@@ -24,6 +24,6 @@
 ## 🚀 Deploy
 
 Puedes ver el portafolio en línea aquí:  
-👉 [Mi Portafolio](https://TU-LINK-AQUI.com) *(Netlify, Vercel o GitHub Pages)*
+👉 [Mi Portafolio]([https://TU-LINK-AQUI.com](https://elianarmendarizz.github.io/Portafolio-Elian-Armendariz.github.io/))
 
 ---

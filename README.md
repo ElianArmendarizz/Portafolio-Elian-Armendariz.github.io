@@ -5,8 +5,8 @@
 
 ## 📸 Capturas de pantalla
 
-./screenshots/captura1.png
-./src/screen/captura2.png
+![Vista previa del portafolio](./screenshots/captura1.png)
+![Vista previa del portafolio](./src/screen/captura2.png)
 
 ---
 
